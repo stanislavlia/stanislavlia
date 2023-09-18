@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stanislav Liashkov</h1>
+<h1 align="center">Hi folks! 👋</h1>
 <h3 align="center">A 18-yo Data Science student in CU Boulder as well as a cadet in 42 Bangkok CS school</h3>
 
 <h3 align="left">Connect with me:</h3>
