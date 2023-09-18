@@ -15,7 +15,8 @@
 
 
 ### Intro  
-I'm a Data Science student at CU Boulder and also a participant in Bangkok's 42 École project. With a strong focus on mathematics, programming, and machine learning, I'm committed to expanding my skills. Open to collaborations and keen to apply my learning in practical settings.  
+I'm a Data Science student at CU Boulder and also a participant in Bangkok's 42 École project. With a strong focus on mathematics, programming, and machine learning, I'm committed to expanding my skills. Open to collaborations and keen to apply my learning in practical settings. 
+This article may tell you more about me - https://www.coursera.org/articles/stanislav-liashkov
   
 
 <br/>  
