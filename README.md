@@ -22,8 +22,8 @@ This article may tell you more about me - https://www.coursera.org/articles/stan
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## Quick info 
+<table><tr><td valign="top" width="100%">
 
 - 🇺🇸 CU Boulder student   
   
@@ -37,11 +37,7 @@ This article may tell you more about me - https://www.coursera.org/articles/stan
 - ⚡ Fun fact: I have started getting familiar with Python since 14 yo :)  
 
 
-</td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
