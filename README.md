@@ -7,9 +7,7 @@
 <a href="https://instagram.com/stanislaww_ly" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/fantomx" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
+
   
 
 
@@ -25,16 +23,13 @@ This article may tell you more about me - https://www.coursera.org/articles/stan
 ## Quick info 
 <table><tr><td valign="top" width="100%">
 
-- 🇺🇸 CU Boulder student   
-  
+- 🇺🇸 University of Colorado Boulder - master's degree in Data Science
+- 🇫🇷 42 Ecole' student - French Computer Science school based on peer-to-peer learning
 
-- 🌱 I’m currently learning SQL, Machine Learning and Statistics  
+- 🌱 I am currently learning Statistical Inference, Big Data technologies and Machine Learning
   
-
 - 💬 I am opened to talk to you about IT techonology and education  
   
-
-- ⚡ Fun fact: I have started getting familiar with Python since 14 yo :)  
 
 
 
