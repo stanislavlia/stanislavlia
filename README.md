@@ -1,4 +1,4 @@
-## Hi folks! I am Stas 🙃  
+## Hi! I am Stas 🙃  
   
 
 <a href="https://linkedin.com/in/stanislav-liashkov-399836260" target="_blank">
