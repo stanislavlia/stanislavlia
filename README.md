@@ -26,7 +26,7 @@ This article may tell you more about me - https://www.coursera.org/articles/stan
 - 🇺🇸 University of Colorado Boulder - master's degree in Data Science
 - 🇫🇷 42 Ecole' student - French Computer Science school based on peer-to-peer learning
 
-- 🌱 I am currently learning Statistical Inference, Big Data technologies and Machine Learning
+- 🌱 I am curios about Machine Learning, Statistical inference and Big Data technologies.
   
 - 💬 I am opened to talk to you about IT techonology and education  
   
