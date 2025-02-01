@@ -10,23 +10,12 @@
 
 
 ### Intro  
-I'm a Data Science student at CU Boulder and also a participant in Bangkok's 42 École project. With a strong focus on mathematics, programming, and machine learning, I'm committed to expanding my skills. Open to collaborations and keen to apply my learning in practical settings. 
-This article may tell you more about me - https://www.coursera.org/articles/stanislav-liashkov
+I am a working as Machine Learning Engineer with focus on Natural Language Processing (NLP) at AI-startup. I am currently pursuing master's degree in Data Science at University of Colorado Boulder and I am also
+studying computer science at 42 Bangkok in addition. I am interested in learning and reinforcing my knowledge in Statistics, Machine Learning, MLOps and general Computer Science.
   
 
 <br/>  
 
-
-## Quick info 
-<table><tr><td valign="top" width="100%">
-
-- 🇺🇸 University of Colorado Boulder - master's degree in Data Science
-- 🇫🇷 42 Ecole' student - French Computer Science school based on peer-to-peer learning
-
-- 🌱 I am curios about Machine Learning, Statistical inference and Big Data technologies.
-  
-- 💬 I am opened to talk to you about IT techonology and education  
-  
 
 
 
