@@ -10,9 +10,7 @@
 
 
 ### Intro  
-I am a working as Machine Learning Engineer with focus on Natural Language Processing (NLP) at AI-startup. I am currently pursuing master's degree in Data Science at University of Colorado Boulder and I am also
-studying computer science at 42 Bangkok in addition. I am interested in learning and reinforcing my knowledge in Statistics, Machine Learning, MLOps and general Computer Science.
-  
+Generalist Machine Learning Engineer and Data Scientist with interdisciplinary expertise in AI, statistical inference, software engineering, and machine learning. Supported by a strong educational foundation and experience in e-commerce, last-mile logistics, and AI-driven legislative consultation, adept at designing and deploying innovative solutions. Combines technical depth with the ability to bridge business needs and technical implementation across diverse data science domains.
 
 <br/>  
 
