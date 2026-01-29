@@ -1,7 +1,9 @@
 
 
 ### About me  
-### <div align="center">Generalist Machine Learning Engineer and Data Scientist with interdisciplinary expertise in AI, statistical inference, software engineering, and machine learning. Supported by a strong educational foundation and experience in e-commerce, last-mile logistics, and AI-driven legislative consultation, adept at designing and deploying innovative solutions. Combines technical depth with the ability to bridge business needs and technical implementation across diverse data science domains.</div>  
+### <div align="center">Machine Learning Engineer and Data Scientist with a focus on NLP Applications and interdisciplinary expertise in
+AI, statistical inference, software engineering, and machine learning. Combines technical depth with the ability to
+bridge business needs and technical implementation across diverse data science domains.</div>  
   
 
 <br/>  
